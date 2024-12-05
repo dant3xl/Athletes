@@ -4,6 +4,7 @@
 }
 .box {
     background: #FFFFFF;
+    margin: 0 auto;
 }
 .fm {
     width: 200px;
@@ -55,7 +56,6 @@
         gap: 30px;
         padding-inline: 35px;
         margin-top: 30px;
-        margin: 0 auto;
     }
 }
 @media screen and (min-width: 750px) {
@@ -68,7 +68,6 @@
         gap: 30px;
         padding-inline: 160px;
         margin-top: 30px;
-        margin: 0 auto;
     }
 }
 @media screen and (min-width: 1000px) {
@@ -81,7 +80,6 @@
         gap: 30px;
         padding-inline: 55px;
         margin-top: 30px;
-        margin: 0 auto;
     }
 }
 @media screen and (min-width: 1500px) {
@@ -94,6 +92,5 @@
         gap: 30px;
         padding-inline: 305px;
         margin-top: 30px;
-        margin: 0 auto;
     }
 }
