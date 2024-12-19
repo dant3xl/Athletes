@@ -1,16 +1,17 @@
 * {
     scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
 }
 img {
-    transition: all 1s;
+    transition: all 0.75s;
     border-radius: 100%;
 }
 .h { 
-    transition: all 1.5s;
+    transition: all 1s;
 }
 .body {
     background: #FFFFFF;
-    margin: 0;
 }
 .box {
     background: #FFFFFF;
@@ -28,11 +29,10 @@ img {
 img {
     width: 200px;
     height: 200px;
-    
 }
 .h {
     width: 200px;
-    height: 261px;
+    height: 260px;
     box-sizing: border-box;
 }
 .t {
